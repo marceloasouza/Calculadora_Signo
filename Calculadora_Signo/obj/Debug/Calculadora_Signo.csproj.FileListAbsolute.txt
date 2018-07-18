@@ -1,0 +1,7 @@
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\bin\Debug\Calculadora_Signo.exe.config
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\bin\Debug\Calculadora_Signo.exe
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\bin\Debug\Calculadora_Signo.pdb
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\obj\Debug\Calculadora_Signo.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\obj\Debug\Calculadora_Signo.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\obj\Debug\Calculadora_Signo.exe
+C:\Users\Marcelo\source\repos\Calculadora_Signo\Calculadora_Signo\obj\Debug\Calculadora_Signo.pdb
